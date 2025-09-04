@@ -65,7 +65,7 @@ export default function TalksSection() {
               <div className="mb-4">
                 <div className="w-full h-48 rounded-lg overflow-hidden mb-4 relative">
                   <Image
-                    src="/images/talks.jpg"
+                    src="/logobig.png"
                     alt="Top-rated Fiverr gig - Professional services"
                     width={400}
                     height={300}
