@@ -13,7 +13,7 @@ const spaceGrotesk = Space_Grotesk({
 })
 
 export const metadata: Metadata = {
-  title: "Vibecoder & Growth Strategist",
+  title: "My Gigs - Best Fiverr Gigs",
   description:
     "Portfolio de Artu Grande: vibecoder, product designer y growth strategist. Experto en Web3, IA y sostenibilidad.",
   keywords: [
@@ -48,33 +48,33 @@ export const metadata: Metadata = {
     type: "website",
     locale: "es_AR",
     alternateLocale: "en_US",
-    url: "https://arturogrande.com",
+    url: "https://my-gigs.vercel.app",
     siteName: "Artu Grande Portfolio",
-    title: "Vibecoder & Growth Strategist",
+    title: "My Gigs - Best Fiverr Gigs",
     description:
-      "Portfolio de Artu Grande: vibecoder, product designer y growth strategist. Experto en Web3, IA y sostenibilidad.",
+      "Top-rated services for your business at unbeatable prices",
     images: [
       {
         url: "/images/portfolioimage.png",
         width: 1200,
         height: 630,
-        alt: "Artu Grande - Vibecoder & Growth Strategist Portfolio",
+        alt: "Artu Grande - My Gigs - Best Fiverr Gigs Portfolio",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Vibecoder & Growth Strategist",
+    title: "My Gigs - Best Fiverr Gigs",
     description:
       "Portfolio de Artu Grande: vibecoder, product designer y growth strategist. Experto en Web3, IA y sostenibilidad.",
     creator: "@artugrandey",
     images: ["/images/portfolioimage.png"],
   },
   alternates: {
-    canonical: "https://arturogrande.com",
+    canonical: "https://my-gigs.vercel.app",
     languages: {
-      "es-AR": "https://arturogrande.com/es",
-      "en-US": "https://arturogrande.com/en",
+      "es-AR": "https://my-gigs.vercel.app/es",
+      "en-US": "https://my-gigs.vercel.app/en",
     },
   },
   generator: "v0.app",
@@ -110,7 +110,7 @@ export default function RootLayout({
               "@graph": [
                 {
                   "@type": "Person",
-                  "@id": "https://arturogrande.com/#person",
+                  "@id": "https://my-gigs.vercel.app/#person",
                   name: "Arturo Grande",
                   alternateName: "Artu Grande",
                   description:
@@ -119,14 +119,14 @@ export default function RootLayout({
                   worksFor: [
                     {
                       "@type": "Organization",
-                      "@id": "https://arturogrande.com/#eluter",
+                      "@id": "https://my-gigs.vercel.app/#eluter",
                       name: "Eluter",
                       url: "https://www.eluter.com/",
                       description: "Fintech company powering global payments for Latin American businesses",
                     },
                     {
                       "@type": "Organization",
-                      "@id": "https://arturogrande.com/#desafia",
+                      "@id": "https://my-gigs.vercel.app/#desafia",
                       name: "DESAFIA",
                       url: "https://desafia.tech/",
                       description: "Program that helps entrepreneurs build and scale digital products globally",
@@ -134,8 +134,8 @@ export default function RootLayout({
                   ],
                   nationality: "Argentina",
                   birthPlace: "Salta, Argentina",
-                  url: "https://arturogrande.com",
-                  image: "https://arturogrande.com/images/profile.jpg",
+                  url: "https://my-gigs.vercel.app",
+                  image: "https://my-gigs.vercel.app/images/profile.jpg",
                   sameAs: [
                     "https://www.linkedin.com/in/arturogrande/",
                     "https://medium.com/@infoarturogrande",
@@ -158,52 +158,52 @@ export default function RootLayout({
                   alumniOf: "AIESEC",
                   hasOccupation: {
                     "@type": "Occupation",
-                    name: "Vibecoder & Growth Strategist",
+                    name: "My Gigs - Best Fiverr Gigs",
                     description:
                       "Specializes in scaling digital products through UX design, Web3 integration, and AI implementation",
                   },
                 },
                 {
                   "@type": "WebSite",
-                  "@id": "https://arturogrande.com/#website",
-                  url: "https://arturogrande.com",
-                  name: "Artu Grande Portfolio",
-                  description: "Portfolio profesional de Artu Grande - Vibecoder & Growth Strategist",
+                  "@id": "https://my-gigs.vercel.app/#website",
+                  url: "https://my-gigs.vercel.app",
+                  name: "My Gigs - Best Fiverr Gigs",
+                  description: "Top-rated services for your business at unbeatable prices",
                   publisher: {
-                    "@id": "https://arturogrande.com/#person",
+                    "@id": "https://my-gigs.vercel.app/#person",
                   },
                   inLanguage: ["es-AR", "en-US"],
                   potentialAction: {
                     "@type": "SearchAction",
-                    target: "https://arturogrande.com/?s={search_term_string}",
+                    target: "https://my-gigs.vercel.app/?s={search_term_string}",
                     "query-input": "required name=search_term_string",
                   },
                 },
                 {
                   "@type": "Organization",
-                  "@id": "https://arturogrande.com/#eluter",
+                  "@id": "https://my-gigs.vercel.app/#eluter",
                   name: "Eluter",
                   url: "https://www.eluter.com/",
                   description: "Fintech company powering global payments for Latin American businesses",
                   employee: {
-                    "@id": "https://arturogrande.com/#person",
+                    "@id": "https://my-gigs.vercel.app/#person",
                   },
                   industry: "Financial Technology",
                 },
                 {
                   "@type": "Organization",
-                  "@id": "https://arturogrande.com/#desafia",
+                  "@id": "https://my-gigs.vercel.app/#desafia",
                   name: "DESAFIA",
                   url: "https://desafia.tech/",
                   description: "Program that helps entrepreneurs build and scale digital products globally",
                   founder: {
-                    "@id": "https://arturogrande.com/#person",
+                    "@id": "https://my-gigs.vercel.app/#person",
                   },
                   industry: "Education Technology",
                 },
                 {
                   "@type": "ItemList",
-                  "@id": "https://arturogrande.com/#portfolio",
+                  "@id": "https://my-gigs.vercel.app/#portfolio",
                   name: "Product Design Portfolio",
                   description: "UX & Web3 case studies by Artu Grande",
                   numberOfItems: 14,
@@ -213,7 +213,7 @@ export default function RootLayout({
                       name: "Trebly - Redefining Lotteries",
                       description: "UX design case study for blockchain lottery platform",
                       url: "https://medium.com/@infoarturogrande/trebly-redefining-lotteries-with-no-losses-27bfad6506ec",
-                      creator: { "@id": "https://arturogrande.com/#person" },
+                      creator: { "@id": "https://my-gigs.vercel.app/#person" },
                       about: ["UX Design", "Blockchain", "Fintech"],
                     },
                     {
@@ -221,7 +221,7 @@ export default function RootLayout({
                       name: "Eluter - Global Payments Platform",
                       description: "Product design for Latin American fintech payments",
                       url: "https://medium.com/@infoarturogrande/eluter-powering-global-payments-for-latin-american-businesses-405c32462b8e",
-                      creator: { "@id": "https://arturogrande.com/#person" },
+                      creator: { "@id": "https://my-gigs.vercel.app/#person" },
                       about: ["Product Design", "Fintech", "Payments"],
                     },
                     {
@@ -229,18 +229,18 @@ export default function RootLayout({
                       name: "BeTrusty - Property Rentals",
                       description: "UX design for blockchain property rental platform",
                       url: "https://medium.com/@infoarturogrande/how-betrusty-transforms-property-rentals-3503ddcb8e9c",
-                      creator: { "@id": "https://arturogrande.com/#person" },
+                      creator: { "@id": "https://my-gigs.vercel.app/#person" },
                       about: ["UX Design", "Real Estate", "Blockchain"],
                     },
                   ],
                 },
                 {
                   "@type": "Blog",
-                  "@id": "https://arturogrande.com/#blog",
+                  "@id": "https://my-gigs.vercel.app/#blog",
                   name: "Artu Grande Articles",
                   description: "Web3, AI & UX insights by Artu Grande",
                   url: "https://medium.com/@infoarturogrande",
-                  author: { "@id": "https://arturogrande.com/#person" },
+                  author: { "@id": "https://my-gigs.vercel.app/#person" },
                   inLanguage: ["en", "es"],
                   about: ["Web3", "AI", "UX Design", "Product Design", "Blockchain", "Sustainability"],
                 },
