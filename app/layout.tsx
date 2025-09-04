@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   description:
     "Top-rated services for your business at unbeatable prices.",
   keywords: [
-    "Artu Grande",
+    "My Gigs",
     "vibecoder",
     "growth strategist",
     "product design",
@@ -30,9 +30,9 @@ export const metadata: Metadata = {
     "blockchain UX",
     "fintech design",
   ],
-  authors: [{ name: "Artu Grande" }],
-  creator: "Artu Grande",
-  publisher: "Artu Grande",
+  authors: [{ name: "My Gigs" }],
+  creator: "My Gigs",
+  publisher: "My Gigs",
   robots: {
     index: true,
     follow: true,
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     locale: "es_AR",
     alternateLocale: "en_US",
     url: "https://my-gigs.vercel.app",
-    siteName: "Artu Grande Portfolio",
+    siteName: "My Gigs",
     title: "My Gigs - Best Fiverr Gigs",
     description:
       "Top-rated services for your business at unbeatable prices",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
         url: "/images/portfolioimage.png",
         width: 1200,
         height: 630,
-        alt: "Artu Grande - My Gigs - Best Fiverr Gigs Portfolio",
+        alt: "My Gigs - Best Fiverr Gigs Portfolio",
       },
     ],
   },
