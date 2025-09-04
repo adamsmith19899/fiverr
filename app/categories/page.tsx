@@ -9,12 +9,12 @@ import { useLanguage } from "@/contexts/language-context"
 const categories = [
   {
     title: "Logo Design & Brand Identity",
-    image: "https://via.placeholder.com/400x300?text=Logo+Design",
+    image: "/logo-design.jpg",
     href: "/categories/logo-branding",
   },
   {
     title: "YouTube Thumbnail Design",
-    image: "https://via.placeholder.com/400x300?text=YouTube+Thumbnails",
+    image: "youtube-thumbnail.webp",
     href: "/categories/youtube-thumbnails",
   },
   {
