@@ -52,7 +52,7 @@ export default function Navbar() {
       >
         <div className="flex items-center justify-between">
           <Link href="/" className="text-lg sm:text-xl font-bold text-white md:flex-1">
-            my-gigs.vercel.app
+            My Gigs
           </Link>
 
           {isStreamingPage && (
