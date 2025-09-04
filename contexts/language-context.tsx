@@ -85,7 +85,7 @@ const translations = {
     "footer.about.talks": "Talks and Workshops",
     "footer.about.articles": "Articles",
     "footer.connect": "LET'S CONNECT",
-    "footer.connect.project": "Have a project in mind?",
+    "footer.connect.project": "Have any questions",
     "footer.connect.touch": "Get in touch",
     "footer.made": "MADE BY",
 
