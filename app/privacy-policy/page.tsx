@@ -49,7 +49,7 @@ function PrivacyPolicyContent() {
                   <li>Pages visited</li>
                   <li>Time and date of visit</li>
                 </ul>
-                <p>This data is used for analytics and security purposes by Vercel and is subject to their <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline">Privacy Policy</a>.</p>
+                <p>This data is used for analytics and security purposes by Vercel and is subject to their <a href="https://vercel.com/privacy-policy" target="_blank" rel="noopener noreferrer" className="text-cyan-400 hover:underline">Privacy Policy</a>.</p>
 
                 <h2 className="text-2xl font-semibold text-purple-400 mt-10">4. Cookies</h2>
                 <p>
