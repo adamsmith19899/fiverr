@@ -66,7 +66,7 @@ export default function Footer() {
             <p className="text-white/75 mb-4">
               {t("footer.connect.project")}{" "}
             </p>
-            <p className="text-white/75 mb-6">info@arturogrande.com</p>
+            <p className="text-white/75 mb-6">nolushac@gmail.com</p>
 
             <div className="mb-6">
               <Button
