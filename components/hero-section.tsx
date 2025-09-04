@@ -30,7 +30,7 @@ export default function HeroSection() {
             <div className="glass rounded-full p-1 mr-3 sm:mr-4">
               <Image
                 src="/logo.png"
-                alt="Best Fiverr Gigs - Top Services"
+                alt="Best Freelance Gigs - Top Services"
                 width={40}
                 height={40}
                 className="rounded-full sm:w-[60px] sm:h-[60px]"
@@ -40,11 +40,11 @@ export default function HeroSection() {
               <p className="text-sm sm:text-lg text-white/75">
                 {language === "en" ? (
                   <>
-                    Discover the <strong>best Fiverr gigs</strong> 👋
+                    Discover the <strong>best Freelance gigs</strong> 👋
                   </>
                 ) : (
                   <>
-                    Descubre los <strong>mejores servicios de Fiverr</strong> 👋
+                    Descubre los <strong>mejores servicios de Freelance</strong> 👋
                   </>
                 )}
               </p>
@@ -55,14 +55,14 @@ export default function HeroSection() {
             <h1 className="text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold leading-tight text-white px-2 mb-4">
               {language === "en" ? (
                 <>
-                  Best Fiverr Gigs & Services <br />
+                  Best Freelance Gigs & Services <br />
                   <span className="text-sm sm:text-lg md:text-xl lg:text-2xl font-normal text-white/90 block mt-4">
                     Top-rated services for your business at unbeatable prices
                   </span>
                 </>
               ) : (
                 <>
-                  Mejores Servicios de Fiverr <br />
+                  Mejores Servicios de Freelance <br />
                   <span className="text-sm sm:text-lg md:text-xl lg:text-2xl font-normal text-white/90 block mt-4">
                     Servicios mejor valorados para tu negocio a precios insuperables
                   </span>
@@ -70,12 +70,12 @@ export default function HeroSection() {
               )}
             </h1>
 
-            {/* Fiverr Logo - moved to top left */}
+            {/* Freelance Logo - moved to top left */}
             <div className="absolute -top-8 sm:-top-12 -left-4 sm:-left-8 animate-float-1 transform rotate-12">
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
-                  src="/images/fiverr-logo.png"
-                  alt="Fiverr logo - Top freelance services"
+                  src="/images/Freelance-logo.png"
+                  alt="Freelance logo - Top freelance services"
                   width={20}
                   height={20}
                   className="sm:w-[32px] sm:h-[32px] md:w-[40px] md:h-[40px]"
@@ -87,7 +87,7 @@ export default function HeroSection() {
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
                   src="/images/5-star.png"
-                  alt="5-star rating - Top-rated Fiverr services"
+                  alt="5-star rating - Top-rated Freelance services"
                   width={20}
                   height={20}
                   className="sm:w-[32px] sm:h-[32px] md:w-[40px] md:h-[40px]"
@@ -100,7 +100,7 @@ export default function HeroSection() {
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
                   src="/images/affiliate.png"
-                  alt="Affiliate program - Verified Fiverr services"
+                  alt="Affiliate program - Verified Freelance services"
                   width={20}
                   height={20}
                   className="sm:w-[32px] sm:h-[32px] md:w-[40px] md:h-[40px]"
