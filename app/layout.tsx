@@ -15,7 +15,7 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "My Gigs - Best Fiverr Gigs",
   description:
-    "Portfolio de Artu Grande: vibecoder, product designer y growth strategist. Experto en Web3, IA y sostenibilidad.",
+    "Top-rated services for your business at unbeatable prices.",
   keywords: [
     "Artu Grande",
     "vibecoder",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "My Gigs - Best Fiverr Gigs",
     description:
-      "Portfolio de Artu Grande: vibecoder, product designer y growth strategist. Experto en Web3, IA y sostenibilidad.",
+      "Top-rated services for your business at unbeatable prices.",
     creator: "@artugrandey",
     images: ["/images/portfolioimage.png"],
   },
@@ -114,7 +114,7 @@ export default function RootLayout({
                   name: "Arturo Grande",
                   alternateName: "Artu Grande",
                   description:
-                    "Vibecoder, product designer y growth strategist especializado en Web3, IA y sostenibilidad",
+                    "Top-rated services for your business at unbeatable prices",
                   jobTitle: ["Vibecoder", "Growth Strategist", "Product Designer", "UX Designer"],
                   worksFor: [
                     {
@@ -160,7 +160,7 @@ export default function RootLayout({
                     "@type": "Occupation",
                     name: "My Gigs - Best Fiverr Gigs",
                     description:
-                      "Specializes in scaling digital products through UX design, Web3 integration, and AI implementation",
+                      "Top-rated services for your business at unbeatable prices",
                   },
                 },
                 {
