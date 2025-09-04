@@ -61,7 +61,7 @@ function CategoriesContent() {
           <section className="py-16 px-4 sm:px-6 lg:px-8">
             <div className="max-w-6xl mx-auto text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-blue-400 bg-clip-text text-transparent mb-4">
-                Design Services
+                Top Rated Gigs
               </h1>
               <p className="text-lg text-white/80">Choose a category to explore our creative offerings</p>
             </div>
