@@ -29,7 +29,7 @@ export default function HeroSection() {
           <div className="flex items-center justify-center mb-4 sm:mb-8">
             <div className="glass rounded-full p-1 mr-3 sm:mr-4">
               <Image
-                src="/images/profile.jpg"
+                src="/logo.png"
                 alt="Best Fiverr Gigs - Top Services"
                 width={40}
                 height={40}
