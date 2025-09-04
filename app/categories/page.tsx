@@ -10,7 +10,7 @@ const categories = [
   {
     title: "Logo Design & Brand Identity",
     image: "/logo-design.jpg",
-    href: "/categories/logo-branding",
+    href: "/logo-design",
   },
   {
     title: "YouTube Thumbnail Design",
