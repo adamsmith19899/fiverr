@@ -35,7 +35,7 @@ const translations = {
     // Trusted By Section
     "trustedBy.title": "Trusted by",
     "trustedBy.subtitle":
-      "Companies and organizations that have trusted my expertise to drive their digital transformation and growth strategies.",
+      "Discover why thousands of companies choose Fiverr gigs for quality work delivered by vetted professionals.",
 
     // Portfolio Section
     "portfolio.title": "Portfolio",
