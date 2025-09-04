@@ -71,8 +71,8 @@ export default function AboutSection() {
               <div className="relative group">
                 <div className="absolute -inset-4 glass rounded-full opacity-30 group-hover:opacity-50 transition-opacity"></div>
                 <Image
-                  src="/images/profile.jpg"
-                  alt="Artu Grande - Vibecoder & Growth Strategist professional headshot"
+                  src="/logobig.png"
+                  alt="My Gigs - Best Fiverr Gigs"
                   width={400}
                   height={400}
                   className="relative rounded-full border-4 border-white/10 hover:border-white/20 transition-all duration-300 hover:scale-105"
