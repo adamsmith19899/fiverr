@@ -14,7 +14,7 @@ const categories = [
   },
   {
     title: "YouTube Thumbnail Design",
-    image: "youtube-thumbnail.webp",
+    image: "/youtube-thumbnail.webp",
     href: "/categories/youtube-thumbnails",
   },
   {
