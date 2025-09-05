@@ -96,21 +96,7 @@ const productDesignItems: PortfolioItem[] = [
     image: "/images/portfolio/glocalportada.png",
     link: "https://medium.com/@infoarturogrande/from-complexity-to-clarity-how-glocal-transforms-grant-access-89c74589e172",
     delay: 600,
-  },
-  {
-    id: "baia",
-    title: "BAIA",
-    image: "/images/portfolio/baiaportada.png",
-    link: "https://medium.com/@infoarturogrande/about-baia-is-a-decentralized-platform-designed-to-provide-fast-transparent-and-direct-5c2738a394e7",
-    delay: 650,
-  },
-  {
-    id: "juntadas",
-    title: "Juntadas",
-    image: "/images/portfolio/juntadas.png",
-    link: "https://medium.com/@infoarturogrande/from-strangers-to-community-on-chain-dinners-for-real-connections-db61a85a12b0",
-    delay: 700,
-  },
+  },  
 ]
 
 const marketingItems: PortfolioItem[] = [
