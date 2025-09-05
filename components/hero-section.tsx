@@ -74,7 +74,7 @@ export default function HeroSection() {
             <div className="absolute -top-8 sm:-top-12 -left-4 sm:-left-8 animate-float-1 transform rotate-12">
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
-                  src="/images/Freelance-logo.png"
+                  src="/images/figma.png"
                   alt="Freelance logo - Top freelance services"
                   width={20}
                   height={20}
@@ -86,7 +86,7 @@ export default function HeroSection() {
             <div className="absolute top-12 sm:top-16 -left-4 sm:-left-8 animate-float-2 transform -rotate-6">
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
-                  src="/images/5-star.png"
+                  src="/images/growth.png"
                   alt="5-star rating - Top-rated Freelance services"
                   width={20}
                   height={20}
@@ -99,7 +99,7 @@ export default function HeroSection() {
             <div className="absolute -top-8 sm:-top-12 -right-4 sm:-right-8 animate-float-3 transform rotate-6">
               <div className="glass glass-hover rounded-xl sm:rounded-2xl p-2 sm:p-4 w-10 h-10 sm:w-16 sm:h-16 md:w-20 md:h-20 flex items-center justify-center">
                 <Image
-                  src="/images/affiliate.png"
+                  src="/images/iconvibecoding.png"
                   alt="Affiliate program - Verified Freelance services"
                   width={20}
                   height={20}
