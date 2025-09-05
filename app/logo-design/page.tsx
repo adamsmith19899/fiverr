@@ -12,7 +12,7 @@ const logoDesigns = [
   {
     id: 1,
     title: "Modern Tech Logo",
-    description: "Sleek and contemporary logo for technology startups",
+    description: "Sleek and contemporary logo for technology startups. Sleek and contemporary logo for technology startups. Sleek and contemporary logo for technology startups. Sleek and contemporary logo for technology startups",
     image: "/images/logo-designs/tech-logo.jpg",
     link: "https://www.fiverr.com/logo-design"
   },
