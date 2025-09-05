@@ -18,59 +18,59 @@ const logoDesigns = [
   },
   {
     id: 2,
-    title: "Elegant Brand Identity",
-    description: "Complete brand package for luxury businesses",
-    image: "/images/logo-designs/luxury-brand.jpg",
-    link: "https://www.fiverr.com/brand-identity  "
+    title: "Modern Minimalist logo design for your business",
+    description: "Minimalist Business Logo | Real Estate logo | YouTube Channel | Beauty | Care | Finance | Food | Fashion | Travel | Event | Construction | Luxury | Social Media | Retail | Sports & Fitness | Technology",
+    image: "/logo/2.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fmewindson%252Fdo-minimal-logo-design%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D3%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526seller_online%253Dtrue%2526imp_id%253D6488fcfa-2f87-4e4c-9327-846c60a29d51"
   },
   {
     id: 3,
-    title: "Minimalist Design",
-    description: "Clean and simple logo for modern brands",
-    image: "/images/logo-designs/minimalist-logo.jpg",
-    link: "https://www.fiverr.com/minimalist-logo  "
+    title: "Professional business logo design for your brand",
+    description: "Specializing in creating professional minimalist business logo designs that are simple yet powerful the kind of logo that speaks for your brand even without words. A minimalist logo is not just a trend it's a timeless style that looks great everywhere.",
+    image: "/logo/3.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsidrraaa%252Fdo-modern-minimalist-logo-design%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D13%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526imp_id%253Ddb8c9401-8792-49f4-845b-9b114076a164"
   },
   {
     id: 4,
-    title: "Vintage Style Logo",
-    description: "Retro-inspired designs with classic appeal",
-    image: "/images/logo-designs/vintage-logo.jpg",
-    link: "https://www.fiverr.com/vintage-logo  "
+    title: "Professional & Modern business logo design",
+    description: "With their expertise in graphic design and branding, they understand the significance of a well-crafted logo in establishing a strong brand identity. They take a collaborative approach, working closely with clients to understand their vision, target audience, and unique selling points. This enables them to create designs that not only stand out but also resonate with the target market.",
+    image: "/logo/4.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Flogo_expert091%252Fdo-professional-business-logo-design-at-a-competitive-price%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D19%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526seller_online%253Dtrue%2526imp_id%253D007b29c5-8f5c-42fe-b925-0a20c095bcb9"
   },
   {
     id: 5,
-    title: "Creative Mascot Logo",
-    description: "Custom character mascots for memorable branding",
-    image: "/images/logo-designs/mascot-logo.jpg",
-    link: "https://www.fiverr.com/mascot-logo  "
+    title: "Logo Design for your business or brand",
+    description: "With over nine years of experience, Saad Tariq specializes in logo design and branding. His approach is centered on crafting simple, modern, and timeless logos that provide businesses with a foundation for a strong and consistent brand identity.",
+    image: "/logo/5.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsaad_tariq15%252Fdo-3d-modern-business-logo-design-for-your-brand%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D22%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526seller_online%253Dtrue%2526imp_id%253Dde936020-8fa1-41be-b223-f3887905b64a"
   },
   {
     id: 6,
-    title: "Professional Business Logo",
-    description: "Corporate identity for established businesses",
-    image: "/images/logo-designs/business-logo.jpg",
-    link: "https://www.fiverr.com/business-logo  "
+    title: "Beautiful Initials, Monogram and highly minimal wedding logo in 24hr",
+    description: "Creating professional hand drawn premium high quality minimalist initials/ lettering logos combined with floral crests or custom illustrations that will perfectly fit in your wedding invitations and other wedding stationery.",
+    image: "/logo/6.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Faroosagraphics%252Fdesign-modern-initials-and-hand-drawn-line-art-based-wedding-logo%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D42%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526imp_id%253D03b6ef85-d50e-4f3f-8220-fe68d7f2e7e7"
   },
   {
     id: 7,
-    title: "Handcrafted Lettering",
-    description: "Custom typography and hand-lettered logos",
-    image: "/images/logo-designs/lettering-logo.jpg",
-    link: "https://www.fiverr.com/hand-lettering  "
+    title: "Custom Sacred Geometry, Mystical, Yoga, Holistic, Spiritual Logo Design",
+    description: "Are you looking for a logo that is more than a design but an experience of a spiritual nature? A logo that captures the essence of sacred geometry, mystical, yoga, spiritual and holistic vibes? You've come to the right spot!",
+    image: "/logo/7.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Flaiba_d3signs%252Fdo-custom-sacred-geometry-mystical-yoga-holistic-spiritual-logo-design%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D48%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526imp_id%253Ddec716b5-deab-4c20-923e-b94cf735e52f"
   },
   {
     id: 8,
-    title: "Icon-Based Logo",
-    description: "Symbolic logos that represent your brand essence",
-    image: "/images/logo-designs/icon-logo.jpg",
-    link: "https://www.fiverr.com/icon-logo  "
+    title: "Highly Luxury Minimalist & Modern business logo design",
+    description: "Looking for a modern, minimalist, and luxury business logo design that sets your business apart? You're in the right hands",
+    image: "/logo/8.png",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fdesignglint%252Fhighly-luxury-minimalist-and-modern-business-logo-design%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D40%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526seller_online%253Dtrue%2526imp_id%253D050d07e5-4fa4-4eea-ad95-3c99bfdb3fcd"
   },
   {
     id: 9,
-    title: "Complete Brand Package",
-    description: "Full branding including logo, colors, and guidelines",
-    image: "/images/logo-designs/full-brand.jpg",
-    link: "https://www.fiverr.com/brand-package  "
+    title: "Unique Hand Lettering & Typography Logo",
+    description: "Each logo is meticulously crafted by hand, using paper and pencil, ensuring every design is original and perfectly aligned with your brands identity. My approach blends creativity with professionalism to deliver standout results that elevate your business",
+    image: "/logo/9.jpg",
+    link: "https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fhasans_studio%252Fdesign-a-unique-hand-lettering-and-typography-logo%253Fcontext_referrer%253Dsearch_gigs_with_recommendations_row_1%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526pckg_id%253D1%2526pos%253D39%2526context_type%253Dauto%2526funnel%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526imp_id%253D73c871f9-13cb-4483-91de-d76c28f245a1"
   }
 ]
 
