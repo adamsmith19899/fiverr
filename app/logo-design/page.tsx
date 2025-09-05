@@ -158,7 +158,7 @@ function LogoDesignPage() {
                     Browse hundreds of top-rated logo design gigs on Fiverr and find the perfect designer for your brand.
                   </p>
                   <a
-                    href="https://www.fiverr.com/c/graphics-design/logo-design  "
+                    href="https://go.fiverr.com/visit/?bta=1143605&brand=fiverrmarketplace&landingPage=https%253A%252F%252Fwww.fiverr.com%252Fsearch%252Fgigs%253Fquery%253Dlogo%252520design%2526source%253Dtop-bar%2526ref_ctx_id%253Df4d8c14c4f3c480d8a02a49ade44a0ba%2526search_in%253Deverywhere%2526search-autocomplete-original-term%253Dlogo%252520design"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center bg-gradient-to-r from-green-600 to-blue-600 px-8 py-4 rounded-xl font-semibold hover:shadow-lg transition-all duration-300 hover:scale-105"
