@@ -13,7 +13,7 @@ const logoDesigns = [
     title: "Modern Tech Logo",
     description: "Professional modern tech logo design for startups and technology companies. This includes a sleek, contemporary design that conveys innovation and cutting-edge technology. Perfect for SaaS platforms, tech startups, software companies, and digital agencies. The package includes multiple design concepts, vector source files, full color variations, transparent backgrounds, and commercial usage rights. We focus on clean lines, geometric shapes, and minimalist typography to create a timeless brand identity that stands out in the competitive tech industry.",
     link: "https://www.fiverr.com/logo-design",
-    iframeSrc: "https://www.fiverr.com/logo-design"
+    iframeSrc: "https://www.fiverr.com/caroline_s07/do-custom-3d-professional-logo-with-free-vector-files?context_referrer=search_gigs_with_recommendations_row_1&source=top-bar&ref_ctx_id=f4d8c14c4f3c480d8a02a49ade44a0ba&pckg_id=1&pos=1&context_type=auto&funnel=f4d8c14c4f3c480d8a02a49ade44a0ba&seller_online=true&fiverr_choice=true&imp_id=6e03000b-1def-41cd-bea2-f1c502398053"
   },
   {
     id: 2,
