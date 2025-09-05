@@ -3,6 +3,7 @@ import type { Metadata } from "next"
 import { Space_Grotesk } from "next/font/google"
 import "./globals.css"
 import { LanguageProvider } from "@/contexts/language-context"
+import Script from "next/script"
 
 const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
@@ -55,7 +56,7 @@ export const metadata: Metadata = {
       "Top-rated services for your business at unbeatable prices",
     images: [
       {
-        url: "/images/portfolioimage.png",
+        url: "/images/logo.png",
         width: 1200,
         height: 630,
         alt: "My Gigs - Best Fiverr Gigs Portfolio",
@@ -67,7 +68,7 @@ export const metadata: Metadata = {
     title: "My Gigs - Best Fiverr Gigs",
     description:
       "Top-rated services for your business at unbeatable prices.",
-    creator: "@artugrandey",
+    creator: "@mygigs",
     images: ["/images/portfolioimage.png"],
   },
   alternates: {
@@ -126,6 +127,26 @@ export default function RootLayout({
         />
         <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+        
+        {/* Google Analytics Script */}
+        <Script
+          strategy="afterInteractive"
+          src={`https://www.googletagmanager.com/gtag/js?id=G-T58HR3RCHH`}
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-T58HR3RCHH', {
+                page_path: window.location.pathname,
+              });
+            `,
+          }}
+        />
       </head>
       <body className={spaceGrotesk.className}>
         <LanguageProvider>{children}</LanguageProvider>
