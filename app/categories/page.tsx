@@ -20,32 +20,32 @@ const categories = [
   {
     title: "Social Media Graphics & Banners",
     image: "/social-media.webp",
-    href: "/categories/social-media",
+    href: "/graphics-banners",
   },
   {
     title: "Packaging & Label Design",
     image: "/packaging.jpg",
-    href: "/categories/packaging-labels",
+    href: "/packaging-label-design",
   },
   {
     title: "Book Cover & eBook Design",
     image: "book.jpg",
-    href: "/categories/book-covers",
+    href: "/book-cover-ebook-design",
   },
   {
     title: "Custom Illustrations & Art",
     image: "/art.jpg",
-    href: "/categories/illustrations",
+    href: "/custom-illustrations-art",
   },
   {
     title: "Website & UI/UX Design",
     image: "/web.webp",
-    href: "/categories/web-uiux",
+    href: "/website-uiux-design",
   },
   {
     title: "DIY & Craft Design Services",
     image: "/diy.webp",
-    href: "/categories/diy-crafts",
+    href: "/diy-craft-design-services",
   },
 ]
 
