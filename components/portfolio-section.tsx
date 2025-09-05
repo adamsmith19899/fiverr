@@ -15,21 +15,21 @@ interface PortfolioItem {
 const productDesignItems: PortfolioItem[] = [
   {
     id: "trebly",
-    title: "Trebly",
+    title: "Logo Design",
     image: "/logo1/1.webp",
     link: "https://medium.com/@infoarturogrande/trebly-redefining-lotteries-with-no-losses-27bfad6506ec",
     delay: 0,
   },
   {
     id: "ownomad",
-    title: "OwnNomad",
+    title: "Logo Design",
     image: "/logo1/2.jpeg",
     link: "https://medium.com/@infoarturogrande/building-the-future-of-real-estate-through-tokenization-c50823f2fe01",
     delay: 100,
   },
   {
     id: "betrusty",
-    title: "BeTrusty",
+    title: "Logo Design",
     image: "/logo1/3.png",
     link: "https://medium.com/@infoarturogrande/how-betrusty-transforms-property-rentals-3503ddcb8e9c",
     delay: 200,
@@ -43,56 +43,56 @@ const productDesignItems: PortfolioItem[] = [
   },
   {
     id: "siwa",
-    title: "SIWA",
+    title: "Logo Design",
     image: "/logo1/5.jpeg",
     link: "https://medium.com/@infoarturogrande/bridging-education-and-web3-siwas-gamified-path-to-growth-29defd9ec79e",
     delay: 150,
   },
   {
     id: "wodpay",
-    title: "WodPay",
+    title: "Logo Design",
     image: "/logo1/6.webp",
     link: "https://medium.com/@infoarturogrande/wodpay-simplifying-finances-for-fitness-coaches-747a434db841",
     delay: 250,
   },
   {
     id: "yellowcash",
-    title: "YellowCash",
+    title: "Logo Design",
     image: "/logo1/7.webp",
     link: "https://medium.com/@infoarturogrande/yellowcash-empowering-international-students-with-easy-transfers-3dee01ab8206",
     delay: 350,
   },
   {
     id: "eluter",
-    title: "Eluter",
+    title: "Logo Design",
     image: "/logo1/8.png",
     link: "https://medium.com/@infoarturogrande/eluter-powering-global-payments-for-latin-american-businesses-405c32462b8e",
     delay: 400,
   },
   {
     id: "provacy",
-    title: "Provacy",
+    title: "Logo Design",
     image: "/logo1/9.jpg",
     link: "https://medium.com/@infoarturogrande/provacy-reinventing-insurance-with-blockchain-and-ai-aab41a3ee81c",
     delay: 450,
   },
   {
     id: "petfundme",
-    title: "PetFundMe",
+    title: "Logo Design",
     image: "/logo1/10.png",
     link: "https://medium.com/@infoarturogrande/how-petfundme-supports-ngos-and-pets-in-need-df501357ea86",
     delay: 500,
   },
   {
     id: "prutopia",
-    title: "Prutopia",
+    title: "Logo Design",
     image: "/logo1/11.webp",
     link: "https://medium.com/@infoarturogrande/prutopia-building-the-new-internet-cv-310620e21198",
     delay: 550,
   },
   {
     id: "glocal",
-    title: "Glocal",
+    title: "Logo Design",
     image: "/logo1/12.jfif",
     link: "https://medium.com/@infoarturogrande/from-complexity-to-clarity-how-glocal-transforms-grant-access-89c74589e172",
     delay: 600,
@@ -230,7 +230,7 @@ export default function PortfolioSection() {
 
                 <div className="absolute inset-0 flex flex-col justify-end p-3 md:p-4 transform translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
                   <h3 className="text-white font-bold text-sm md:text-base mb-1">{item.title}</h3>
-                  <p className="text-white/90 text-xs md:text-sm font-medium">View Case Study →</p>
+                  <p className="text-white/90 text-xs md:text-sm font-medium">View Gig →</p>
                 </div>
               </div>
             </a>
